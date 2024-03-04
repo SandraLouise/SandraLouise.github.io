@@ -22,4 +22,4 @@ JOBIM 2021
 
 ## Other
 
-Sciences en Cour[t]s 2021, "Patatogène", a 5-minute short film presenting the PhD work of a fellow student, co-written/produced/... with  [[youtube (in french)]](https://www.youtube.com/watch?v=9taXJ3P91YM&)
+Sciences en Cour[t]s 2021, "Patatogène", a 5-minute short film presenting the PhD work of a fellow student, won the public prize, co-written/produced/... with  [[youtube (in french)]](https://www.youtube.com/watch?v=9taXJ3P91YM&)
