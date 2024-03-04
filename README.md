@@ -1,7 +1,7 @@
 ## About me
 
 3rd year PhD student in bioinformatics, at the GenScale team from the Inria Center of the University of Rennes (Brittany, France).
-Working on methods and algorithms for the study of genomic structural variants (with a strong interest in inversions) and (pan-)genome graphs.
+Working on methods and algorithms for the study of genomic structural variants (with a strong interest in inversions) with a (pan-)genome graph representation.
 
 ## Publications
 
