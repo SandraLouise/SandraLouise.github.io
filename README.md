@@ -5,7 +5,7 @@ Working on methods and algorithms for the study of genomic structural variants (
 
 ## Publications
 
-Sandra Romain, Claire Lemaitre, SVJedi-graph: improving the genotyping of close and overlapping structural variants with long reads using a variation graph, Bioinformatics, Volume 39, Issue Supplement_1, June 2023, Pages i270–i278, [check the paper](https://doi.org/10.1093/bioinformatics/btad237) [SVJedi-graph git](https://github.com/SandraLouise/SVJedi-graph)
+Sandra Romain, Claire Lemaitre, SVJedi-graph: improving the genotyping of close and overlapping structural variants with long reads using a variation graph, Bioinformatics, Volume 39, Issue Supplement_1, June 2023, Pages i270–i278, [[check the paper]](https://doi.org/10.1093/bioinformatics/btad237) [[SVJedi-graph git]](https://github.com/SandraLouise/SVJedi-graph)
 
 ## Oral communications
 
