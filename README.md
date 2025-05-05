@@ -16,7 +16,7 @@ The heart of my project was to develop and implement methods for the identificat
 My PhD work can be divided into three main axes:
 - Long-read SV genotyping using a variation graph representation (methodological development)
 - Inversion characterization from pangenome graphs (benchmarking and methodological development)
-- Inter-species inversion characterization (data analysis) 
+- Inter-species genome comparison and inversion characterization (data analysis) 
 
 My full PhD thesis is available (in english) online: [https://theses.hal.science/tel-04825910v1](https://theses.hal.science/tel-04825910v1).
 
